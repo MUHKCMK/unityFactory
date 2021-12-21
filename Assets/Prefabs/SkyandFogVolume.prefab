@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 2239805827703568627}
   - component: {fileID: 2239805827703568624}
   m_Layer: 0
-  m_Name: Sky and Fog Volume
+  m_Name: SkyandFogVolume
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
